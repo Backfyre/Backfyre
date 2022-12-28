@@ -5,8 +5,6 @@
   </a>
 </p>
 
-<hr>
-
 # 🔥 Backfyre 🔥
 
 Welcome to the 🔥 blazing hot 🔥 Backfyre project! This is a collection of apps and tools for software engineers, including the ultimate code editor, CodeCastle.
