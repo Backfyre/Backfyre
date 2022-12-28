@@ -1,16 +1,27 @@
-### Hi there 👋
+# 🔥 Backfyre 🔥
 
-<!--
-**Backfyre/Backfyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the 🔥 blazing hot 🔥 Backfyre project! This is a collection of apps and tools for software engineers, including the ultimate code editor, CodeCastle.
 
-Here are some ideas to get you started:
+## 🚀 Getting Started 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ready to join the Backfyre revolution?
+
+1. Go to backfyre.github.io and pick an App.
+2. Fall in love with it!
+3. Then join us on our social media.
+
+## 📚 Documentation 📚
+
+Need to know more about Backfyre and its apps? Check out the full documentation at [https://docs.backfyre.com](https://docs.backfyre.com).
+
+## 🤝 Contributing 🤝
+
+We welcome contributions to the Backfyre project! If you have an idea or code contribution, please read our [contributing guidelines](CONTRIBUTING.md) and get in touch.
+
+## 💰 Support Backfyre 💰
+
+Want to help us build the best suite of tools for software engineers? Consider supporting us on [Patreon](https://www.patreon.com/rayvoice) and joining our community on [Twitter](https://twitter.com/RayShortHead). Every contribution helps us bring Backfyre to the next level.
+
+## 📜 License 📜
+
+The Backfyre project is licensed under the [CC BY 4.0](LICENSE.md) license.
