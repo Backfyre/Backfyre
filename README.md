@@ -10,10 +10,6 @@ Ready to join the Backfyre revolution?
 2. Fall in love with it!
 3. Then join us on our social media.
 
-## 📚 Documentation 📚
-
-Need to know more about Backfyre and its apps? Check out the full documentation at [https://docs.backfyre.com](https://docs.backfyre.com).
-
 ## 🤝 Contributing 🤝
 
 We welcome contributions to the Backfyre project! If you have an idea or code contribution, please read our [contributing guidelines](CONTRIBUTING.md) and get in touch.
