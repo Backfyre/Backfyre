@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://backfyre.github.io">
+      <img src="https://github.com/Backfyre/Backfyre/blob/main/logo.png" height="128">
+    <h1 align="center">Backfyre</h1>
+  </a>
+</p>
+
+<hr>
+
 # 🔥 Backfyre 🔥
 
 Welcome to the 🔥 blazing hot 🔥 Backfyre project! This is a collection of apps and tools for software engineers, including the ultimate code editor, CodeCastle.
