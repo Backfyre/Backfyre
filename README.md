@@ -27,4 +27,4 @@ Want to help us build the best suite of tools for software engineers? Consider s
 
 ## 📜 License 📜
 
-The Backfyre project is licensed under the [CC BY 4.0](LICENSE.md) license.
+The Backfyre project is licensed under the [CC BY 4.0](LICENSE.md) license. However each repo hosted here has its own license.
